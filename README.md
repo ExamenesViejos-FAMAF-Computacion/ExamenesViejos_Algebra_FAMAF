@@ -1,2 +1,3 @@
-# ExamenesViejos_Algebra_FaMAF-Computacion
-Exámenes viejos de la materia álgebra de la carrera de ciencias de la computación de FaMAF
+# Exámenes viejos - Álgebra - FaMAF - Computación
+
+Exámenes viejos de la materia álgebra de la carrera de Ciencias de la Computación de FaMAF
